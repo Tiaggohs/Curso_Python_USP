@@ -12,4 +12,4 @@ num4 = int(input())
 
 med = (num1 + num2 + num3 + num4)/4
 
-print ("A média aritmética é " + str(med))
+print ("A media aritmtica é " + str(med))
