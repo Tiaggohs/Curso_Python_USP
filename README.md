@@ -1,1 +1,4 @@
-n this course I learned Computer Science concepts and to develop reasoning to solve computational problems in Python. It was elaborated by the University of São Paulo and Taught by Professor Fabio Kon.
+## Python Course
+In this course I learned Computer Science concepts and to develop reasoning to solve computational problems in Python.
+- Elaborated by: University of São Paulo
+- Taught by: Professor Fabio Kon.
